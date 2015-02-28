@@ -16,8 +16,8 @@ int getArrayLen(T& array)
 	
 int main(){
 
-	double x[] = {1,2,3,4};
-	double y[] = {5,4,3,2};
+	double x[] = {0.1,2,0.3,4};
+	double y[] = {15,14,13,12};
 	double xt = 2.5;
 	int nx = getArrayLen( x );
 	int ny = getArrayLen( y );
